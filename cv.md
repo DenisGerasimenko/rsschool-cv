@@ -31,6 +31,8 @@ class App extends React.Component<MapPropsType & DispatchPropsType> {
 ### [Cards]https://github.com/DenisGerasimenko/cards_project) : TypeScript, React, Redux
 ## EDUCATION:
 ### Minsk Theological Seminary: Bachelor's degree theology
+## ENGLISH:
+### B1
 
 
 
